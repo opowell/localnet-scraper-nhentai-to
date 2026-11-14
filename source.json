@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "nhentai.to",
+      "urlPattern": "nhentai.to"
+    }
+  ],
+  "file": "nhentai-to.js"
+}
